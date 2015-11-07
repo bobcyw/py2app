@@ -1,0 +1,12 @@
+doc/_build
+build
+dist
+py2app.egg-info
+.DS_Store
+__pycache__
+
+syntax: glob
+*.dSYM
+*.pyc
+*.pyo
+unittest2-*.egg
